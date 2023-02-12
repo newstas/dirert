@@ -28,7 +28,7 @@ www.url.ru/?параметр={значение}.
 
 `utm_source` — показывает источник трафика;
 
-`utm_medium` — тип трафика (например, `utm_medium=cpc` для контекстной рекламы с оплатой за клик);
+`utm_medium` — тип трафика (например, `utm_medium=cpa` для контекстной рекламы с оплатой за действие, еще есть CPC и СPM);
 
 `utm_campaign` — передает идентификатор или название кампании.
 
@@ -52,6 +52,18 @@ www.url.ru/?параметр={значение}.
 
 Вы можете использовать этот шаблон, подставив в него свои параметры и значения:
 
-https://ur.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign={campaign_id}&utm_content={ad_id}&utm_term={keyword}.
+https://ur.ru/?utm_source=yandex&utm_medium=cpa&utm_campaign={campaign_id}&utm_content={ad_id}&utm_term={keyword}
+
+```
+utm_source=yandex
+
+utm_medium=cpc
+
+utm_campaign={campaign_id}
+
+utm_content={ad_id}
+
+utm_term={keyword}
+```
 
 Также можно воспользоваться специальным [генератором UTM-меток](https://tools.yaroshenko.by/utm.php).
