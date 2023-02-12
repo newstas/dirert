@@ -53,7 +53,7 @@ www.url.ru/?параметр={значение}.
 
 ### Пример
 
-Вы можете использовать этот шаблон, подставив в него свои параметры и значения:
+Вы можете использовать этот шаблон, подставив в него свои параметры и значения (первые два значения для ЯД с моделью CPA:
 
 https://ur.ru/?utm_source=yandex&utm_medium=cpa&utm_campaign={campaign_id}&utm_content={ad_id}&block={position_type}&utm_term={keyword}
 
