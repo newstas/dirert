@@ -60,7 +60,7 @@ https://ur.ru/?utm_source=yandex&utm_medium=cpa&utm_campaign={campaign_id}&utm_c
 ```
 utm_source=yandex
 
-utm_medium=cpc
+utm_medium=cpa
 
 utm_campaign={campaign_id}
 
