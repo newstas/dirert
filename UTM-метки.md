@@ -66,6 +66,8 @@ utm_campaign={campaign_id}
 
 utm_content={ad_id}
 
+block={position_type}
+
 utm_term={keyword}
 ```
 
