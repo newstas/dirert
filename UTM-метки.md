@@ -55,7 +55,8 @@ www.url.ru/?параметр={значение}.
 
 Вы можете использовать этот шаблон, подставив в него свои параметры и значения:
 
-https://ur.ru/?utm_source=yandex&utm_medium=cpa&utm_campaign={campaign_id}&utm_content={ad_id}&utm_term={keyword}
+https://ur.ru/?utm_source=yandex&utm_medium=cpa&utm_campaign={campaign_id}&utm_content={ad_id}&
+block={position_type}&utm_term={keyword}
 
 ```
 utm_source=yandex
