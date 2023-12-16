@@ -87,12 +87,12 @@ CPA = затраты на рекламу / количество действий
 **Call To Action** — призыв к действию. «Подпишись на канал», «поставь 
 колокольчик», «ставьте лайки», «переходите по ссылке» — это и есть призывы к действию.
 
-- call to action |ˌkɔːl tuː ˈæk.ʃən| [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/call-to-action), 
-[fv](https://ru.forvo.com/word/call_to_action/)
 - call |kɔːl| — называть, вызывать, вызов, требование, крик, голос [wh](https://wooordhunt.ru/word/call), 
 [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/call)
 - action |ˈækʃ(ə)n| — действие, виляние, акция, боевой [wh](https://wooordhunt.ru/word/action), 
 [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/action)
+- call to action |ˌkɔːl tuː ˈæk.ʃən| [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/call-to-action), 
+[fv](https://ru.forvo.com/word/call_to_action/)
 
 
 # ROI
@@ -108,12 +108,12 @@ ROI = (Доход – Затраты ) / Затраты × 100%
 Самый сложный момент расчёта ROI в соцсетях — определение «дохода». Всё зависит от 
 выбранной цели. Это могут быть новые подписчики, покупки, подписка на рассылку и другие.
 
-- roi |ˌɑːr.oʊˈaɪ| [ht](https://ru.howtopronounce.com/roi), [cd](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/roi)
-- return on investment (abbreviation ROI) [cd](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/return-on-investment)
 - return |rɪˈtɜːn| — возврат, ответ, возвращать [wh](https://wooordhunt.ru/word/return), 
 [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/return)
 - investment |ɪnˈvestmənt| — инвестирование, одежда, наделение [cd](https://wooordhunt.ru/word/investment)
-- 
+- roi |ˌɑːr.oʊˈaɪ| [ht](https://ru.howtopronounce.com/roi), [cd](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/roi)
+- return on investment (abbreviation ROI) [cd](https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/return-on-investment)
+
 
 # Кликфрод 
 
@@ -122,6 +122,7 @@ ROI = (Доход – Затраты ) / Затраты × 100%
 в рекламном объявлении.
 - fraud |frɔːd| — обман, мошенничество [wh](https://wooordhunt.ru/word/fraud), 
 [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/fraud)
+
 
 # CPC 
 
@@ -145,20 +146,18 @@ CPC = затраты на рекламу / количество кликов
 
 **cost per order** — цена, которую рекламодатель платит за 1 заказ или покупку на сайте
 
-# CTA 
-
-**call to action** — призыв к действию, часть объявления, которая указывает пользователю, 
-что он должен сделать (“Звоните!”, “Регистрируйтесь” и т.д.)
 
 # РСЯ 
 
 **Рекламная сеть Яндекса** — *сайты-партнеры Яндекса*, на которых показываются объявления 
 тематической контекстной рекламы, запущенной через Яндекс.Директ
 
+
 # КМС
 
 **Контекстно-медийная сеть** — *сайты-партнеры Google*, на которых показываются объявления 
 тематической контекстной рекламы, запущенной через Google Ads
+
 
 # Бенчмарк
 
@@ -168,12 +167,14 @@ CPC = затраты на рекламу / количество кликов
 и переводится как «эталон», «ориентир».
 - `benchmark` *амер.*|ˈbentʃmɑːrk| *брит.*|ˈben(t)ʃmɑːk| — эталон, ориентир [wh](https://wooordhunt.ru/word/benchmark), [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/benchmark)
 
+
 # LTV 
 
 **Lifetime Value** — это *пожизненная ценность клиента*. LTV показывает прибыль от отношений 
 с клиентом за весь период — с момента, когда он увидел первую рекламу или зарегистрировался 
 на сайте, до последней покупки. 
 - `lifetime` |ˈlaɪftaɪm| — продолжительность жизни [wh](https://wooordhunt.ru/word/lifetime), [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/lifetime)
+
 
 # Retention, RR
 
