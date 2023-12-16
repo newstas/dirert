@@ -202,7 +202,7 @@ CPC = затраты на рекламу / количество кликов
 
 ## РЕСУРСЫ
 
-[Аббревамтуры — шпаргалка маркетолога](https://profitwrite.info/rasshifrovka-marketingovyh-abbreviatur/)
+[Аббреаветура — шпаргалка маркетолога](https://profitwrite.info/rasshifrovka-marketingovyh-abbreviatur/)
 
 
 
