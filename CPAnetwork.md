@@ -46,6 +46,10 @@
 - адалт (тематика для взрослых с пометкой 18+)
 - гемблинг (азартные игры, казино)
 
+- `Dating` |ˈdeɪtɪŋ| — знакомства, свидание, встречаться [fv](https://ru.forvo.com/word/dating/) 
+[cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/online-dating)
+
+
 ### Беттинг
 
 Betting (от bet — ставка) — это вертикаль, связанная с продвижением ставок 
@@ -68,10 +72,6 @@ Betting (от bet — ставка) — это вертикаль, связан�
 - `gamble` |ˈɡæmbl| — азартная игра, авантюра, рисковать [wh](https://wooordhunt.ru/word/gamble), 
 [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/gamble)
 - `gambling` |ˈɡæmblɪŋ| — игорный, азартная игра [wh](https://wooordhunt.ru/word/gambling)
-
-- `Dating` |ˈdeɪtɪŋ| — знакомства, свидание, встречаться [fv](https://ru.forvo.com/word/dating/) 
-[cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/online-dating)
-
 
 
 
