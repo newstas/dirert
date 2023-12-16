@@ -59,7 +59,7 @@ CPA = затраты на рекламу / количество действий
 [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/cost)
 - `action` |ˈækʃ(ə)n| — действие, виляние, акция, боевой [wh](https://wooordhunt.ru/word/action), 
 [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/action)
-
+- `cost per action` [wh](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/cost-per-action), [fv](https://ru.forvo.com/word/cost_per_action/)
 
 ## CPS 
 
@@ -197,6 +197,12 @@ CPC = затраты на рекламу / количество кликов
 - `benchmark` *амер.*|ˈbentʃmɑːrk| *брит.*|ˈben(t)ʃmɑːk| — эталон, ориентир [wh](https://wooordhunt.ru/word/benchmark), [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/benchmark)
 - `lifetime` |ˈlaɪftaɪm| — продолжительность жизни [wh](https://wooordhunt.ru/word/lifetime), [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/lifetime)
 - `retention` |rɪˈtenʃn| — удержание [wh](https://wooordhunt.ru/word/retention), [cd](https://dictionary.cambridge.org/ru/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/retention)
+
+***
+
+## РЕСУРСЫ
+
+[Аббревамтуры — шпаргалка маркетолога](https://profitwrite.info/rasshifrovka-marketingovyh-abbreviatur/)
 
 
 
